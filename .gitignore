@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Whisper / models cache
+.cache/
+*.bin
+*.pt
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
